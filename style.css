@@ -4,7 +4,7 @@ body {
 }
 
 main {
-    background-color: rgb(255, 255, 255) !important;
+    /* background-color: rgb(255, 255, 255) !important; */
     background: var(--tg-theme-bg-color);
     text-align: center;
     padding: 10px 0px 20px 0;
@@ -52,7 +52,7 @@ main {
 
 .add-ons {
     padding: 15px 15px 20px 15px;
-    background-color: rgb(211, 211, 211) !important;
+    /* background-color: rgb(211, 211, 211) !important; */
     background: var(--tg-theme-secondary-bg-color);
 }
 
@@ -63,7 +63,7 @@ main {
 }
 
 .list {
-    background-color: rgb(255, 255, 255) !important;
+    /* background-color: rgb(255, 255, 255) !important; */
     background: var(--tg-theme-section-bg-color);
     border-radius: 10px;
     width: 100%;
@@ -104,7 +104,7 @@ main {
 }
 
 .recycle-bin img{
-    max-width: 60% !important;
+    max-width: 60%;
 }
 
 .destructive-text {
@@ -123,7 +123,7 @@ main {
     border-radius: 10px;
     width: 100%;
     height: auto;
-    background: rgb(0, 153, 255) !important;
+    /* background: rgb(0, 153, 255) !important; */
     background: var(--tg-theme-button-color);
     color: var(--tg-theme-button-text-color);
     border: 0;
